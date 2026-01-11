@@ -46,5 +46,5 @@ I am a Business Analyst with experience translating business needs into clear re
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: yourname@email.com
+- LinkedIn: https://linkedin.com/in/adejobi-adetayo
+- Email: Adetayoadejobi@outlook.com
