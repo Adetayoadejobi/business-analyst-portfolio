@@ -1,50 +1,69 @@
-# business-analyst-portfolio
-A portfolio showcasing Business Analyst case studies, requirements documentation, and data analysis projects
-# Business Analyst Portfolio – Adetayo Adejobi
+## Hi I'm Adetayo Adejobi
 
-## 👋 About Me
-I am a Business Analyst with experience translating business needs into clear requirements and actionable insights. I specialize in stakeholder engagement, process improvement, and data-driven decision-making.
+I’m a Business Analyst focused on digital transformation, systems integration, and cloud-enabled solutions. I specialise in bridging the gap between business needs and technology by producing clear, testable requirements and supporting delivery teams through implementation and adoption.
 
----
-
-## 🛠 Skills
-- Requirements Gathering & Documentation
-- Stakeholder Management
-- Process Mapping (As-Is / To-Be)
-- Agile & Scrum
-- Data Analysis
+I have experience working on transformation initiatives, system integrations, and cloud-related projects, collaborating with business and technical stakeholders to deliver solutions aligned with organisational goals.
 
 ---
 
-## 💻 Tools
-- Excel
-- SQL
-- Power BI / Tableau
-- Jira & Confluence
-- Lucidchart / Draw.io
+## Core Skills & Expertise
 
----
+Business Analysis
+	•	Requirements gathering (functional & non-functional)
+	•	User stories, epics & acceptance criteria
+	•	Stakeholder workshops & interviews
+	•	Process mapping (current & future state)
+	•	UAT & implementation support
 
-## 📂 Portfolio Projects
+Digital Transformation
+	•	Business process optimisation
+	•	Change & adoption support
+	•	Continuous improvement initiatives
 
-### 1️⃣ Process Improvement Case Study – Employee Onboarding
-📄 [View Project](./projects/employee-onboarding)
+Technology & Cloud
+	•	AWS fundamentals (Cloud Practitioner)
+	•	Cloud migration & integration analysis
+	•	API & systems integration concepts
+	•	Data analysis & reporting (Excel, Power BI)
 
-**Problem:** Onboarding took 10 days, delaying productivity  
-**Approach:** Stakeholder interviews, process mapping, gap analysis  
-**Outcome:** Reduced onboarding time by 50%
+## Tools & Methodologies
+	•	Jira, Confluence
+	•	MS Visio / Lucidchart
+	•	Agile & Hybrid SDLC
+	•	Power BI, Excel
+	•	AWS (SAA in progress)
 
----
 
-### 2️⃣ Sales Performance Analysis
-📄 [View Project](./projects/sales-analysis)
+## What You’ll Find on My GitHub
 
-**Problem:** Declining monthly sales  
-**Approach:** Excel & Power BI dashboard analysis  
-**Outcome:** Identified top-performing regions and products
+This GitHub demonstrates how I approach problems and solutions as a Business Analyst:
+	•	Business analysis templates & documentation samples
+	•	Process mapping examples (BPMN)
+	•	Cloud & integration architecture notes
+	•	UAT and testing documentation
+	•	Data analysis & reporting examples
 
----
+My focus is on analysis, solution design, and delivery clarity, rather than software development.
 
-## 📫 Contact
+⸻
+## Current Focus
+	•	Completing AWS Solutions Architect – Associate
+	•	Strengthening cloud-aware business analysis
+	•	Supporting digital and cloud transformation initiatives
+
+⸻
+
+## Open to Opportunities
+
+Roles of interest:
+	•	Business Analyst
+	•	Technology / IT Business Analyst
+	•	Business Systems Analyst
+	•	Digital Transformation Analyst
+	•	Associate Solution Architect
+
+UK | Remote / Hybrid
+
+## Connect with me
 - LinkedIn: https://linkedin.com/in/adejobi-adetayo
 - Email: Adetayoadejobi@outlook.com
